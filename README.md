@@ -1,2 +1,5 @@
 # amazon-clone
-Using HTML &amp; CSS Only
+My first Clone website.git status
+<br>
+Created clone using HTML & CSS Only
+
